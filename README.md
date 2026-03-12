@@ -11,9 +11,7 @@
 - 📫 How to reach me **ramithu.sathkumara@gmail.com**
 
 
-- 🌱 I am currently learning **Python**
 
-- ⚡ Fun fact **I am actually a short guy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
